@@ -1,12 +1,12 @@
 {
-	"name": "astro-blog-zozo",
+	"name": "zebraoo-blog",
 	"version": "0.0.3",
 	"author": {
 		"name": "Ladit",
 		"email": "i@ladit.me",
 		"url": "https://github.com/ladit"
 	},
-	"homepage": "https://github.com/ladit/astro-blog-zozo",
+	"homepage": "https://www.zebraoo.life",
 	"repository": {
 		"type": "git",
 		"url": "git+https://github.com/ladit/astro-blog-zozo.git"
