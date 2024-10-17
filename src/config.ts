@@ -3,7 +3,7 @@ import type { PostHideElements } from '~/content/config';
 export const Site = 'https://astro-blog-zozo.pages.dev';
 export const SiteLanguage = 'zh';
 export const SiteTitle = '给我一把大岛';
-export const SiteDescription = 'feedId:69633997346357248+userId:67394577382537216';
+export const SiteDescription = '唯当勤精进，自强行胜修';
 export const FooterDescription = '上岛';
 export const AdminName = 'zebraoo';
 export const PageSize = 15;
