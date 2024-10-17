@@ -3,6 +3,7 @@ import { Picture } from 'astro:assets';
 import img from '~/assets/undraw_dog_c7i6.svg';
 import { SiteDescription, SiteTitle } from '~/config';
 import MarkdownLayout from '~/layouts/MarkdownLayout.astro';
+import {Icon} from "astro-icon/components";
 ---
 
 <MarkdownLayout
@@ -13,7 +14,9 @@ import MarkdownLayout from '~/layouts/MarkdownLayout.astro';
 >
 	<div class="flex flex-col items-center gap-4 xl:flex-row">
 		<div>
-			<h1>给我一把大岛</h1>
+			<h1>
+				<Icon name="logo" class="size-64 fill-current" title="go to index" />
+			</h1>
 		</div>
 	</div>
 </MarkdownLayout>
