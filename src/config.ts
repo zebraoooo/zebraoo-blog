@@ -11,8 +11,7 @@ export const PageSize = 15;
 // socialPlatform => userName
 // check components/Header.astro socialConfig for more info
 export const Socials: Record<string, Record<string, string>> = {
-	mail: { url: 'mailto:i@ladit.me' },
-	github: { url: 'https://github.com/ladit/astro-blog-zozo' },
+	/*mail: { url: 'mailto:i@ladit.me' },
 	x: { url: 'https://x.com/userName' },
 	mastodon: { url: 'https://mastodon.social/@userName' },
 	facebook: { url: 'https://facebook.com/userName' },
@@ -31,6 +30,8 @@ export const Socials: Record<string, Record<string, string>> = {
 	dingding: { url: 'https://dingtalk.com/userName' },
 	zhihu: { url: 'https://zhihu.com/userName' },
 	douban: { url: 'https://douban.com/userName' },
+*/
+	github: { url: 'https://github.com/ladit/astro-blog-zozo' },
 	rss: { url: '/rss.xml' },
 };
 
